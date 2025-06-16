@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/farmers-market-website/static/css/main.27494701.css",
-    "main.js": "/farmers-market-website/static/js/main.6e2429da.js",
+    "main.js": "/farmers-market-website/static/js/main.bdb2dbc5.js",
     "static/js/453.35d835bb.chunk.js": "/farmers-market-website/static/js/453.35d835bb.chunk.js",
     "static/media/logo.svg": "/farmers-market-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/farmers-market-website/index.html",
     "main.27494701.css.map": "/farmers-market-website/static/css/main.27494701.css.map",
-    "main.6e2429da.js.map": "/farmers-market-website/static/js/main.6e2429da.js.map",
+    "main.bdb2dbc5.js.map": "/farmers-market-website/static/js/main.bdb2dbc5.js.map",
     "453.35d835bb.chunk.js.map": "/farmers-market-website/static/js/453.35d835bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27494701.css",
-    "static/js/main.6e2429da.js"
+    "static/js/main.bdb2dbc5.js"
   ]
 }
